@@ -47,12 +47,11 @@ This project implements a digital library catalog system using Object-Oriented P
 1. Clone the repository to your local machine.
 2. Open a terminal window in the project directory.
 3. Install required Python libraries:
-
 ```bash
 pip install
 ```
-4. Run the program:
-
+4. Run the program using the following command:
 ```bash
 python main.py
 ```
+This will start the library catalog program. You can then interact with the program by entering search terms to find items in the catalog.
