@@ -50,6 +50,9 @@ This project implements a digital library catalog system using Object-Oriented P
 
 ```bash
 pip install
+```
+4. Run the program:
 
 ```bash
 python main.py
+```
