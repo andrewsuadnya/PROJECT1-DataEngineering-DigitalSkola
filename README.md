@@ -11,9 +11,7 @@ This project implements a digital library catalog system using Object-Oriented P
 * Sourcetree https://www.sourcetreeapp.com/
 
 **Create OOP:**
-
 ![](files/oop.png)
-
 
 **Create Automation:**
 
