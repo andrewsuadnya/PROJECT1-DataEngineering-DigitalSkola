@@ -10,9 +10,9 @@ This project implements a digital library catalog system using Object-Oriented P
 * GitHub https://github.com/Index
 * Sourcetree https://www.sourcetreeapp.com/
 
-![](files/oop.png)
+![](files/oop.png) **Create OOP:**
 
-![Create Automation](files/automation.png)
+![](files/automation.png)
 
 **Explanation of Files**
 
