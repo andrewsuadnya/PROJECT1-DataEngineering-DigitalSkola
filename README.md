@@ -10,6 +10,14 @@ This project implements a digital library catalog system using Object-Oriented P
 * GitHub https://github.com/Index
 * Sourcetree https://www.sourcetreeapp.com/
 
+**Create OOP:**
+
+![](files/oop.png)
+
+**Create Automation:**
+
+![](files/automation.png)
+
 **Explanation of Files**
 
 * `catalog.json`: Stores library catalog data in JSON format. Each item represents a book, magazine, CD, or DVD in the following format:
