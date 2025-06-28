@@ -63,4 +63,3 @@ pip install
 python main.py
 ```
 This will start the library catalog program. You can interact with it by entering search terms to find items in the catalog.
-
